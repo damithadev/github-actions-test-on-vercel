@@ -7,6 +7,7 @@ export default function Home() {
         This is a test deployment of a Next.js app on Vercel using GitHub
         Actions.
       </h2>
+      <h2 className="mb-3 text-xl font-regular">Feature 1 Test</h2>
       <p>damitha.dev</p>
     </main>
   );
