@@ -8,7 +8,9 @@ export default function Home() {
         Actions.
       </h2>
       <h2 className="mb-3 text-xl font-regular">Feature 1 Test</h2>
-      <h2 className="mb-3 text-xl font-regular">Feature 2 Test</h2>
+      <h2 className="mb-3 text-xl font-regular">
+        Feature 2 Test (made some changes)
+      </h2>
       <p>damitha.dev</p>
     </main>
   );
